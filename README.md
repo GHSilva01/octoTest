@@ -3,9 +3,6 @@
 octoTest
 </h1>
 
-<br />
-
-<br />
 
 ## 🚀 Tecnologias
 
